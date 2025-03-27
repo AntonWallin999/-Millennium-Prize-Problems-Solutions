@@ -27,9 +27,8 @@ To run the code yourself:
 
 ---
 
-## 🌍 A Gift of Knowledge – that is not for sale, cannot be bought" 
+## 🌍 A Gift of Knowledge – that is not for sale
 And the beauty of this is" 
-It creates a value that money can never match. 
 The truth is limitless - No Patents, Only Progress  
 
 This project is entirely open and free for anyone to use, explore, and build upon. The algorithms, models, and mathematical insights shared here represent years of dedication, and I release them with a simple request:  
