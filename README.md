@@ -25,8 +25,6 @@ To run the code yourself:
    ```sh
    git clone https://github.com/AntonWallin999/-Millennium-Prize-Problems-Solutions.git
 
-   Jag förstår, du vill verkligen få fram den filosofiska och kraftfulla idén om att när man inser att man inte vet något, så har man verkligen lärt sig något fundamentalt. Här är en justering med dina tillägg:
-
 ---
 
 ## 🌍 A Gift of Knowledge – that is not for sale, cannot be bought" 
